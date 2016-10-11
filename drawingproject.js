@@ -517,3 +517,5 @@ canvas.fillRect(270,40,20,20);
 canvas.fillRect(260,100,20,20);
 
 canvas.fillRect(220,120,20,20);
+
+canvas.fillRect(380,140,20,20);
