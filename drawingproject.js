@@ -494,9 +494,9 @@ canvas.fillRect(380, 280, 20, 20);
 
 canvas.beginPath();
 canvas.fillStyle = "blue";
-canvas.moveTo(450,380);
-canvas.lineTo(554,320);
-canvas.lineTo(550,330);
+canvas.moveTo(200,160);
+canvas.lineTo(400,160);
+canvas.lineTo(300,0);
 canvas.fill();
 
 canvas.beginPath();
@@ -507,3 +507,13 @@ canvas.fill();
 
 canvas.fillRect(280, 400, 40, 20);
 canvas.fillRect(280, 420, 40, 20);
+
+canvas.fillRect(300,40,20,20);
+canvas.fillRect(300,80,20,20);
+
+canvas.fillRect(360,120,20,20);
+
+canvas.fillRect(270,40,20,20);
+canvas.fillRect(260,100,20,20);
+
+canvas.fillRect(220,120,20,20);
